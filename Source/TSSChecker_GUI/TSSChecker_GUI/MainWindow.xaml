@@ -1,0 +1,32 @@
+﻿<Window x:Class="TSSChecker_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TSSChecker_GUI"
+        mc:Ignorable="d"
+        Title="TSSChecker GUI" Height="266.197" Width="241.549" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <!-- Build number -->
+            <Label x:Name="BuildNumberLbl" Content="Build Number" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBox x:Name="BuildNumberTxtBox" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,0" Width="180" ToolTip="Use only if looking for a specific build number of a version. (Optional)"/>
+
+            <!-- iOS model -->
+            <Label x:Name="iOSModelLbl" Content="iOS Device" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBox x:Name="iOSModelTxtBox" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,0" Width="180" ToolTip="An iOS device model name. (Required)"/>
+
+            <!-- ECID -->
+            <Label x:Name="ECIDLbl" Content="ECID" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBox x:Name="ECIDTxtBox" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,0" Width="180" ToolTip="The ECID can be retrieved from iTunes. (Required)"/>
+
+            <!-- iOS version -->
+            <Label x:Name="iOSVersionLbl" Content="iOS Version" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBox x:Name="iOSVersionTxtBox" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,0" Width="180" ToolTip="Specify an iOS version. (Required)"/>
+
+            <!-- Worker button -->
+            <Button x:Name="StartBtn" Content="Save blobs" Margin="0,10,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\bin\Release\TSSChecker_GUI.exe.config
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\bin\Release\TSSChecker_GUI.exe
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\bin\Release\TSSChecker_GUI.pdb
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\MainWindow.g.cs
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\App.g.cs
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI_Content.g.cs
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI_MarkupCompile.cache
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI_MarkupCompile.lref
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\MainWindow.baml
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI.g.resources
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI.Properties.Resources.resources
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI.csproj.GenerateResource.Cache
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI.exe
+c:\users\carlo de leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI.pdb
+C:\Users\Carlo De Leon\documents\visual studio 2015\Projects\TSSChecker_GUI\TSSChecker_GUI\obj\Release\TSSChecker_GUI.csprojResolveAssemblyReference.cache
